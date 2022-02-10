@@ -1,1 +1,3 @@
-console.log('First')
+function f (){
+    console.log('azaza')
+}
